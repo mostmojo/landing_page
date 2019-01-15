@@ -1,6 +1,6 @@
 <?php
 if(isset($_POST['email'])) {
-    $email_to = "contact@cambridgeblockchainhub.com";
+    $email_to = "contact@xxxxxx.com";
     $email_subject = "Message from Cambridge Blockchain Forum";
 
     function died($error) {
